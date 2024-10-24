@@ -1,4 +1,4 @@
-This is a sample theme for Obsidian ([https://obsidian.md](https://obsidian.md/)).
+Inspired by and based on the [iA Writer](https://github.com/mrowa44/obsidian-ia-writer) app and theme.
 
 ## First Time publishing a theme?
 
