@@ -1,4 +1,4 @@
-Inspired by and based on the [iA Writer](https://github.com/mrowa44/obsidian-ia-writer) app and theme.
+Inspired by and based on the iA Writer [app](https://ia.net) and [theme](https://github.com/mrowa44/obsidian-ia-writer).
 
 ## First Time publishing a theme?
 
